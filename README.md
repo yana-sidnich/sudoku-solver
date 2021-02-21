@@ -1,6 +1,6 @@
 # sudoku-solver
 
-A fun learning game, that allows you to wither solve a sudoku or understand how it is solved.
+A fun learning game, that allows you to either solve a sudoku or understand how it is solved.
 
 ### Dependencies
 
